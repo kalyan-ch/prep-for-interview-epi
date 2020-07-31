@@ -6,9 +6,9 @@ A project to store solutions to the problems in the book `Elements of Programmin
 
 ### Primitive Types
 
-- [ ] 4.1 Compute Parity of Word
-- [ ] 4.3
-- [ ] 4.7
+- [x] 4.1 Compute Parity of Word
+- [ ] 4.3 Reverse Bits
+- [ ] 4.7 Compute x<sup>y</sup>
 - [ ] 4.8
 - [ ] 4.9
 - [ ] 4.11
