@@ -5,12 +5,17 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 
 ## Primitive Types
 
+* number of digits in an integer x is n = Math.floor(Math.log10(x)) + 1
+* is n a power of 2 (n & (n-1) == 0)
+* Right propagate last set bit:  (num | (num -1))
+* divide by 2 = n >>> 1
+* multiply by 2 = n << 1
 
 - [x] 4.1 Compute Parity of Word
 - [x] 4.3 Reverse Bits
 - [x] 4.7 Compute x<sup>y</sup>
-- [ ] 4.8 Reverse Digits
-- [ ] 4.9 Check if a decimal integer is a palindrome 
+- [x] 4.8 Reverse Digits
+- [x] 4.9 Check if a decimal integer is a palindrome 
 - [ ] 4.11 Rectangle Intersection
 
 ## Arrays
