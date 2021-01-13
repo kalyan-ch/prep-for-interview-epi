@@ -11,18 +11,20 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 * divide by 2 = n >>> 1
 * multiply by 2 = n << 1
 
+- [x] Bootcamp
 - [x] 4.1 Compute Parity of Word
 - [x] 4.3 Reverse Bits
 - [x] 4.7 Compute x<sup>y</sup>
 - [x] 4.8 Reverse Digits
 - [x] 4.9 Check if a decimal integer is a palindrome 
-- [ ] 4.11 Rectangle Intersection
+- [x] 4.11 Rectangle Intersection
 
 ## Arrays
 
-- [ ] 5.1 Dutch National Flag Problem
-- [ ] 5.2
-- [ ] 5.3
+- [x] Bootcamp
+- [x] 5.1 Dutch National Flag Problem
+- [x] 5.2 Increment Arbitrary Precision Integer
+- [ ] 5.3 Multiply Arbitrary Precision Integers
 - [ ] 5.5
 - [ ] 5.6
 - [ ] 5.9
