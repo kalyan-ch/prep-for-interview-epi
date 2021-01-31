@@ -11,6 +11,13 @@ public class ArrayUtils {
         System.out.println();
     }
 
+    public static void printIntArr(int[] arr, int end){
+        for (int i = 0; i < end; i++)
+            System.out.print(arr[i]+" ");
+
+        System.out.println();
+    }
+
     public static void printIntArr(List<Integer> arr){
         for (int i: arr)
             System.out.print(i+" ");
