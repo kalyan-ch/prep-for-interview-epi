@@ -24,27 +24,27 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 - [x] Bootcamp
 - [x] 5.1 Dutch National Flag Problem
 - [x] 5.2 Increment Arbitrary Precision Integer
-- [ ] 5.3 Multiply Arbitrary Precision Integers
-- [ ] 5.5
-- [ ] 5.6
-- [ ] 5.9
+- [x] 5.3 Multiply Arbitrary Precision Integers
+- [x] 5.5 Remove Duplicates from Sorted Array
+- [x] 5.6 Buy snd sell stock once
+- [x] 5.9 Compute Primes before N
 - [ ] 5.10
 - [ ] 5.12
 - [ ] 5.15
 - [ ] 5.17
-- [ ] 5.18
+- [x] 5.18 Print Spiral order of a Matrix
 
 ## Strings
 
-- [ ] 6.1
-- [ ] 6.2
-- [ ] 6.4
-- [ ] 6.5
-- [ ] 6.6
-- [ ] 6.7
-- [ ] 6.8
-- [ ] 6.9
-- [ ] 6.11
+- [x] 6.1 Inter-convert integers and strings
+- [ ] 6.2 Base Conversion
+- [ ] 6.4 Replace and Remove
+- [ ] 6.5 Is String a palindrome
+- [ ] 6.6 Reverse all words in a sentence
+- [ ] 6.7 Compute mnemonics of a phone number
+- [ ] 6.8 Look and say problem
+- [ ] 6.9 Roman to integer
+- [ ] 6.11 Write string sinusoidally
 
 ## Linked Lists
 
