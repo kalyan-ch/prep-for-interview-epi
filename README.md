@@ -37,14 +37,14 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 ## Strings
 
 - [x] 6.1 Inter-convert integers and strings
-- [ ] 6.2 Base Conversion
-- [ ] 6.4 Replace and Remove
+- [x] 6.2 Base Conversion
+- [x] 6.4 Replace and Remove
 - [ ] 6.5 Is String a palindrome
-- [ ] 6.6 Reverse all words in a sentence
+- [x] 6.6 Reverse all words in a sentence
 - [ ] 6.7 Compute mnemonics of a phone number
-- [ ] 6.8 Look and say problem
-- [ ] 6.9 Roman to integer
-- [ ] 6.11 Write string sinusoidally
+- [x] 6.8 Look and say problem
+- [x] 6.9 Roman to integer
+- [x] 6.11 Write string sinusoidally
 
 ## Linked Lists
 
