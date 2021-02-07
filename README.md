@@ -48,11 +48,11 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 
 ## Linked Lists
 
-- [ ] 7.1
-- [ ] 7.2
-- [ ] 7.3
-- [ ] 7.4
-- [ ] 7.7
+- [x] 7.1 Merge two sorted Linked Lists
+- [x] 7.2 Reverse a part of the linked list
+- [x] 7.3 Check if there is a cycle in LinkedList
+- [x] 7.4 check if two lists are overlapping
+- [x] 7.7 Remove kth node from last
 - [ ] 7.10
 - [ ] 7.11
 
