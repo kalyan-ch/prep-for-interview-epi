@@ -53,30 +53,48 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 - [x] 7.3 Check if there is a cycle in LinkedList
 - [x] 7.4 check if two lists are overlapping
 - [x] 7.7 Remove kth node from last
-- [ ] 7.10
-- [ ] 7.11
+- [ ] 7.10 Implement an even-odd merge
+- [x] 7.11 Test if singly-linked-list is palindromic
 
 ## Stacks and Queues
 
-- [ ] 8.1
-- [ ] 8.2
-- [ ] 8.3
-- [ ] 8.4
-- [ ] 8.6
-- [ ] 8.7
-- [ ] 8.8
+- [x] 8.1 Implement a stack with max API
+- [x] 8.2 Evaluate RPN expressions
+- [x] 8.3 Test a string of parentheses for well-formed-ness
+- [x] 8.4 Normalize path names
+- [ ] 8.6 Compute binary-tree nodes in order of increasing depth
+- [ ] 8.7 Implement a circular queue
+- [ ] 8.8 Implement a queue using stacks
 
 ## Binary Trees
 
 - [ ] 9.1
+- [ ] 9.2
+- [ ] 9.4
+- [ ] 9.11
+- [ ] 9.12
+- [ ] 9.13
+- [ ] 9.16
 
 ## Heaps
 
 - [ ] 10.1
+- [ ] 10.3
+- [ ] 10.4
+- [ ] 10.5
+- [ ] 10.6
 
 ## Searching
 
 - [ ] 11.1
+- [ ] 11.3
+- [ ] 11.4
+- [ ] 11.5
+- [ ] 11.6
+- [ ] 11.7
+- [ ] 11.8
+- [ ] 11.9
+- [ ] 11.10
 
 ## Hash Tables
 

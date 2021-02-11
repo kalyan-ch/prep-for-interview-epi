@@ -4,7 +4,7 @@ import static com.interviewPrep.epi.Chap7LinkedLists.LinkedListBootcamp.insertNo
 
 public class LinkedListUtils {
 
-    static void printLinkedList(ListNode head){
+    public static void printLinkedList(ListNode head){
         ListNode node = head;
         while(node != null){
             System.out.print(node.val+ "->");
@@ -14,7 +14,7 @@ public class LinkedListUtils {
         System.out.println();
     }
 
-    static ListNode createLinkedList(int start, int step, int end){
+    public static ListNode createLinkedList(int start, int step, int end){
         ListNode head = new ListNode(start);
         ListNode node = head;
         for(int i = start+step; i < end; i += step){
