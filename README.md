@@ -58,12 +58,15 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 
 ## Stacks and Queues
 
+* Stack - LIFO - ArrayDeque.push(), ArrayDeque.pop()
+* queue - FIFO - ArrayDeque.add(), ArrayDeque.poll()
+
 - [x] 8.1 Implement a stack with max API
 - [x] 8.2 Evaluate RPN expressions
 - [x] 8.3 Test a string of parentheses for well-formed-ness
 - [x] 8.4 Normalize path names
-- [ ] 8.6 Compute binary-tree nodes in order of increasing depth
-- [ ] 8.7 Implement a circular queue
+- [x] 8.6 Compute binary-tree nodes in order of increasing depth
+- [x] 8.7 Implement a circular queue
 - [ ] 8.8 Implement a queue using stacks
 
 ## Binary Trees
