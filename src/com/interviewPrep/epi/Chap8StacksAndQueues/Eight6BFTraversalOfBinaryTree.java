@@ -2,25 +2,17 @@ package com.interviewPrep.epi.Chap8StacksAndQueues;
 
 import com.interviewPrep.epi.Chap5Arrays.ArrayUtils;
 import com.interviewPrep.epi.Chap9BinaryTrees.BinaryTreeNode;
-import com.interviewPrep.epi.Chap9BinaryTrees.BinaryTreeUtils;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Deque;
 import java.util.List;
 
-import static com.interviewPrep.epi.Chap9BinaryTrees.BinaryTreeUtils.insertLeft;
-import static com.interviewPrep.epi.Chap9BinaryTrees.BinaryTreeUtils.insertRight;
+import static com.interviewPrep.epi.Chap9BinaryTrees.BinaryTreeUtils.*;
 
 public class Eight6BFTraversalOfBinaryTree {
     public static void main(String[] args) {
-        BinaryTreeNode root = new BinaryTreeNode(314);
-        insertLeft(root, 6);
-        insertRight(root, 88);
-        insertLeft(root.left, 271);
-        insertRight(root.left, 500);
-        insertLeft(root.right, 2);
-        insertRight(root.right, 271);
+        BinaryTreeNode root = createBinaryTree();
 
         List<List<Integer>> result = binaryTreeBFS(root);
         for(List<Integer> level: result){

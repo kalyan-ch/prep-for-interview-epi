@@ -33,6 +33,7 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 - [ ] 5.15
 - [ ] 5.17
 - [x] 5.18 Print Spiral order of a Matrix
+- [x] 5.19 Rotate Matrix 90 clockwise
 
 ## Strings
 
@@ -71,13 +72,13 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 
 ## Binary Trees
 
-- [ ] 9.1
-- [ ] 9.2
-- [ ] 9.4
-- [ ] 9.11
-- [ ] 9.12
-- [ ] 9.13
-- [ ] 9.16
+- [x] 9.1 Check if a tree is height balanced
+- [x] 9.2 Check if a binary tree is symmetric
+- [x] 9.4 Compute the LCA of two nodes when they have parent nodes
+- [x] 9.11 Implement inorder traversal with O(1) space 
+- [ ] 9.12 Reconstruct binary tree from traversal tree
+- [ ] 9.13 
+- [ ] 9.16 Compute right sibling tree
 
 ## Heaps
 

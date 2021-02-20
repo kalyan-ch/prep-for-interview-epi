@@ -13,6 +13,8 @@ public class Five3MultiplyIntsInArrays {
         int[] num2 = {5,3,1};
         List<Integer> product = multiply(num1, num2);
         printIntArr(product);
+
+        System.out.println(multiplyStrings("2", "3"));
     }
 
     private static List<Integer> multiply(int[] num1, int[] num2) {
@@ -47,6 +49,32 @@ public class Five3MultiplyIntsInArrays {
         }
 
         return product;
+    }
+
+    private static String multiplyStrings(String num1, String num2){
+        int n = num1.length(), m = num2.length();
+        int[] result = new int[n+m];
+
+        for(int i = n- 1 ; i >= 0; i--){
+            for(int j = m - 1; j >= 0; j--){
+                result[i+j+1] += (num2.charAt(j) -'0') * (num1.charAt(i) - '0');
+                result[i+j] += result[i+j+1] / 10;
+                result[i+j+1] %= 10;
+            }
+        }
+
+        StringBuilder temp = new StringBuilder();
+
+        int i = 0;
+        while(result[i] == 0){
+            i++;
+        }
+
+        while(i < result.length){
+            temp.append(result[i++]);
+        }
+
+        return temp.toString();
     }
 
 }
