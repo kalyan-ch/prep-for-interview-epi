@@ -76,17 +76,17 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 - [x] 9.2 Check if a binary tree is symmetric
 - [x] 9.4 Compute the LCA of two nodes when they have parent nodes
 - [x] 9.11 Implement inorder traversal with O(1) space 
-- [ ] 9.12 Reconstruct binary tree from traversal tree
+- [ ] 9.12 Reconstruct binary tree from traversal data
 - [ ] 9.13 
 - [ ] 9.16 Compute right sibling tree
 
 ## Heaps
 
-- [ ] 10.1
-- [ ] 10.3
-- [ ] 10.4
-- [ ] 10.5
-- [ ] 10.6
+- [ ] 10.1 Merge Sorted files
+- [ ] 10.3 Sort an almost sorted array
+- [ ] 10.4 Compute k-closest stars
+- [ ] 10.5 Compute the median of online data
+- [ ] 10.6 Compute the k-largest elements in a max-heap
 
 ## Searching
 
