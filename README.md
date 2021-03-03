@@ -82,10 +82,10 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 
 ## Heaps
 
-- [ ] 10.1 Merge Sorted files
-- [ ] 10.3 Sort an almost sorted array
-- [ ] 10.4 Compute k-closest stars
-- [ ] 10.5 Compute the median of online data
+- [x] 10.1 Merge Sorted files
+- [x] 10.3 Sort an almost sorted array
+- [x] 10.4 Compute k-closest stars
+- [x] 10.5 Compute the median of online data
 - [ ] 10.6 Compute the k-largest elements in a max-heap
 
 ## Searching

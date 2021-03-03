@@ -2,7 +2,6 @@ package com.interviewPrep.epi.Chap10Heaps;
 
 import com.interviewPrep.epi.Chap5Arrays.ArrayUtils;
 
-import java.util.Comparator;
 import java.util.PriorityQueue;
 
 public class Ten3SortKSortedArray {
@@ -16,7 +15,7 @@ public class Ten3SortKSortedArray {
 
     private static int[] sortAlmostSortedArr(int[] arr, int k) {
         int[] result = new int[arr.length];
-        PriorityQueue<Integer> minHeap = new PriorityQueue<>((o1, o2) -> Integer.compare(o1, o2));
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
 
         int j = 0, i = 0, p = 0;
         for(i = 0; i < k; i++){
