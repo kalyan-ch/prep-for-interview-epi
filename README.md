@@ -90,9 +90,9 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 
 ## Searching
 
-- [ ] 11.1
-- [ ] 11.3
-- [ ] 11.4
+- [x] 11.1 search sorted array for first occurrence of k
+- [x] 11.3 Search cyclically sorted array
+- [ ] 11.4 Compute integer square root
 - [ ] 11.5
 - [ ] 11.6
 - [ ] 11.7
