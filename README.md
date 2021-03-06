@@ -92,21 +92,33 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 
 - [x] 11.1 search sorted array for first occurrence of k
 - [x] 11.3 Search cyclically sorted array
-- [ ] 11.4 Compute integer square root
+- [x] 11.4 Compute integer square root
 - [ ] 11.5
-- [ ] 11.6
-- [ ] 11.7
-- [ ] 11.8
-- [ ] 11.9
-- [ ] 11.10
+- [x] 11.6 search a sorted 2d array 
+- [ ] 11.7 find min and max in an array simultaneously
+- [x] 11.8 find kth largest element in array
+- [ ] 11.9 find missing IP
+- [ ] 11.10 find duplicate and missing elements
 
 ## Hash Tables
 
-- [ ] 12.2
+- [ ] 12.1 test for palindromic permutations
+- [ ] 12.2 Is an anonymous letter constructible?
+- [ ] 12.3 implement ISBN cache
+- [ ] 12.4 Compute LCA optimizing for close ancestors
+- [ ] 12.5 Find nearest repeated enties in an array
+- [ ] 12.6 Find smallest subarray containing all values
+- [ ] 12.9 Find the length of longest contained interval
 
 ## Sorting
 
-- [ ] 13.1
+- [ ] 13.1 Compute intersection of two sorted arrays
+- [ ] 13.2 Merge two sorted arrays
+- [ ] 13.5 Render a calendar
+- [ ] 13.6 merging intervals
+- [ ] 13.7 Compute union of intervals
+- [ ] 13.8 Partitioning and sorting array with many repeated values
+- [ ] 13.10 fast sorting algorithm for lists
 
 ## Binary Search Trees
 
@@ -135,3 +147,5 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 ## System Design
 
 - [ ] 20.13
+
+## Honors Class
