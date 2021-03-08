@@ -23,8 +23,7 @@ public class ArrayUtils {
 
     public static void printIntArr(List<Integer> arr){
         if(!arr.isEmpty())
-            for (int i: arr)
-                System.out.print(i+" ");
+            arr.forEach(i -> System.out.print(i+" "));
         else
             System.out.println("[]");
 

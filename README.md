@@ -102,13 +102,13 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 
 ## Hash Tables
 
-- [ ] 12.1 test for palindromic permutations
-- [ ] 12.2 Is an anonymous letter constructible?
-- [ ] 12.3 implement ISBN cache
+- [x] 12.1 Test for palindromic permutations
+- [x] 12.2 Is an anonymous letter constructible?
+- [x] 12.3 implement ISBN cache
 - [ ] 12.4 Compute LCA optimizing for close ancestors
-- [ ] 12.5 Find nearest repeated enties in an array
-- [ ] 12.6 Find smallest subarray containing all values
-- [ ] 12.9 Find the length of longest contained interval
+- [x] 12.5 Find the nearest repeated entries in an array
+- [ ] 12.6 Find smallest sub-array containing all values
+- [ ] 12.9 Find the length of the longest contained interval
 
 ## Sorting
 
@@ -118,7 +118,7 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 - [ ] 13.6 merging intervals
 - [ ] 13.7 Compute union of intervals
 - [ ] 13.8 Partitioning and sorting array with many repeated values
-- [ ] 13.10 fast sorting algorithm for lists
+- [ ] 13.10 fast sorting algorithm for lists    
 
 ## Binary Search Trees
 
