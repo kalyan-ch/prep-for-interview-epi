@@ -107,10 +107,10 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 - [x] 12.3 implement ISBN cache
 - [ ] 12.4 Compute LCA optimizing for close ancestors
 - [x] 12.5 Find the nearest repeated entries in an array
-- [ ] 12.6 Find smallest sub-array containing all values
-- [ ] 12.9 Find the length of the longest contained interval
+- [x] 12.6 Find smallest sub-array containing all values
+- [x] 12.9 Find the length of the longest contained interval
 
-## Sorting
+## Sorting - 11/3
 
 - [ ] 13.1 Compute intersection of two sorted arrays
 - [ ] 13.2 Merge two sorted arrays
@@ -120,25 +120,51 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 - [ ] 13.8 Partitioning and sorting array with many repeated values
 - [ ] 13.10 fast sorting algorithm for lists    
 
-## Binary Search Trees
+## Binary Search Trees - 13/3
 
 - [ ] 14.1
+- [ ] 14.2
+- [ ] 14.3
+- [ ] 14.4
+- [ ] 14.5
+- [ ] 14.7
+- [ ] 14.8
 
-## Recursion
+## Recursion - 14/3
 
 - [ ] 15.1
+- [ ] 15.2
+- [ ] 15.3
+- [ ] 15.4
+- [ ] 15.6
+- [ ] 15.9
+- [ ] 15.10
 
-## Dynamic Programming
+## Dynamic Programming - 16/3
 
 - [ ] 16.1
+- [ ] 16.2
+- [ ] 16.3
+- [ ] 16.5
+- [ ] 16.6
+- [ ] 16.7
+- [ ] 16.12
 
-## Greedy Algorithms
+## Greedy Algorithms - 18/3
 
 - [ ] 17.4
+- [ ] 17.5
+- [ ] 17.6
+- [ ] 17.7
+- [ ] 17.8
 
-## Graphs
+## Graphs - 21/3
 
 - [ ] 18.1
+- [ ] 18.2
+- [ ] 18.3
+- [ ] 18.5
+- [ ] 18.7
 
 ## Parallel Computing
 

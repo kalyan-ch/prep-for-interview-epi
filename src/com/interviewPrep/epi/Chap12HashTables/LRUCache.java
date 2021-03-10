@@ -6,7 +6,7 @@ import java.util.Map;
 public class LRUCache {
     private Map<Integer, Integer> bookPrices;
     public LRUCache(int capacity){
-        this.bookPrices = new LinkedHashMap<>(capacity, 1.0f, true){
+        this.bookPrices = new LinkedHashMap<Integer, Integer>(capacity, 1.0f, true){
             @Override
             protected boolean removeEldestEntry(Map.Entry<Integer, Integer> eldest) {
                 return this.size() > capacity;
