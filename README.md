@@ -112,11 +112,10 @@ A project for practicing the problems in [Elements of Programming Interviews in 
 
 ## Sorting - 11/3
 
-- [ ] 13.1 Compute intersection of two sorted arrays
-- [ ] 13.2 Merge two sorted arrays
-- [ ] 13.5 Render a calendar
-- [ ] 13.6 merging intervals
-- [ ] 13.7 Compute union of intervals
+- [x] 13.1 Compute intersection of two sorted arrays
+- [x] 13.2 Merge two sorted arrays
+- [x] 13.5 Max number of simultaneous events in a day
+- [x] 13.7 Compute union of intervals
 - [ ] 13.8 Partitioning and sorting array with many repeated values
 - [ ] 13.10 fast sorting algorithm for lists    
 
